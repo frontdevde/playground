@@ -1,4 +1,4 @@
 
-A playground repo to test/evaluate new frameworks/technologies
+A playground repo to test/evaluate frameworks/technologies
 
-Warning: Should not be used in production. Code is meant for prototype purposes only. Code does not cross-reference every OS repo used.
+Note: The code in this repo should not be used in production. It is meant for prototype purposes ONLY. For that reason it might not necessarily meet code quality standards and/or best practices. Also code does not cross-reference 3rd party code used.
